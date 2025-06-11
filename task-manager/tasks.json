@@ -35,5 +35,56 @@
     "tags": [],
     "status": "todo",
     "created_at": "2025-06-11T18:26:58.723429"
+  },
+  {
+    "id": "4",
+    "title": "Test API Task",
+    "description": "Created using REST Client",
+    "priority": 3,
+    "due": "2025-06-15T12:00:00",
+    "tags": [
+      "api",
+      "test"
+    ],
+    "status": "todo",
+    "created_at": "2025-06-11T19:57:16.456539"
+  },
+  {
+    "id": "5",
+    "title": "Buy groceries",
+    "description": "Milk, Eggs, Bread",
+    "priority": 2,
+    "due": "todo",
+    "tags": [
+      "home",
+      "shopping"
+    ],
+    "status": "todo",
+    "created_at": "2025-06-11T19:58:54.094908"
+  },
+  {
+    "id": "6",
+    "title": "Finish assignment",
+    "description": "WTC Python CLI",
+    "priority": 1,
+    "due": "2025-06-13",
+    "tags": [
+      "school",
+      "urgent"
+    ],
+    "status": "todo",
+    "created_at": "2025-06-11T20:01:37.130320"
+  },
+  {
+    "id": "7",
+    "title": "Pay bills",
+    "description": "Electricity and Internet",
+    "priority": 3,
+    "due": "string",
+    "tags": [
+      "finance"
+    ],
+    "status": "todo",
+    "created_at": "2025-06-11T20:03:10.445110"
   }
 ]
