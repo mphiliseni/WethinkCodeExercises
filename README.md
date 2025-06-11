@@ -20,12 +20,9 @@ A collection of exercises and solutions from WethinkCode's AI curriculum.
 - Python 3.x
 - Basic programming knowledge
 
-## API Swagger
-<img width="1438" alt="Screenshot 2025-06-11 at 18 28 13" src="https://github.com/user-attachments/assets/a454565f-2737-4dc0-beab-2906dd8117f6" />
+## REST API Test 
+<img width="1434" alt="Screenshot 2025-06-11 at 18 49 00" src="https://github.com/user-attachments/assets/9c010cc3-c94c-40ee-9ed2-cdc7b3a7b706" />
 
-
-## List Tasks
-<img width="1400" alt="Screenshot 2025-06-11 at 18 22 38" src="https://github.com/user-attachments/assets/1b057b0a-97d6-4b27-a17c-b3d754136fd9" />
 
 
 ## Contributing
