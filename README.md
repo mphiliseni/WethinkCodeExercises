@@ -1,0 +1,2 @@
+# WethinkCodeExercises
+WethinkCode Get Ai 
