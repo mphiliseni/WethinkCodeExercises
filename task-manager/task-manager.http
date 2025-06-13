@@ -18,7 +18,7 @@ GET http://localhost:8000/tasks
 ###
 
 ### Get a single task by ID
-GET http://localhost:8000/tasks/2
+GET http://localhost:8000/tasks/4
 
 ###
 
